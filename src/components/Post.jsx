@@ -1,7 +1,7 @@
 import { deletePost, getPost } from "../api/PostApi";
 import { useEffect, useState } from "react";
 import "../App.css"
-import { Form } from "./form";
+import { Form } from "./Form";
 
 export const Post = () => {
 
