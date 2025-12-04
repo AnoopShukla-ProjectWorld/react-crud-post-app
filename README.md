@@ -9,7 +9,8 @@ Live Project 🚀
 
 ## 🖼️ Project Screenshot
 
-![Project Screenshot](https://frolicking-creponne-05a62f.netlify.app/screenshot.png)
+![Project Screenshot]
+<img src="./public/screenshot.png" alt="Project Screenshot" width="100%" />
 
 > Note: This screenshot shows the UI of the deployed CRUD App.
 
